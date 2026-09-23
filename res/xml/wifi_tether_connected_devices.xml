@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: Paranoid Android
+     SPDX-License-Identifier: Apache-2.0
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:key="wifi_tether_connected_devices_screen"
+    android:title="@string/wifi_tether_connected_devices_title"
+    settings:controller="co.aospa.settings.wifi.tether.WifiTetherConnectedDevicesPreferenceController"/>

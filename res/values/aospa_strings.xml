@@ -215,4 +215,10 @@
     <string name="search_region">Search regions</string>
     <string name="search_region_page">Search region page</string>
 
+    <!-- Wi-Fi hotspot connected devices -->
+    <string name="wifi_tether_connected_devices_title">Connected devices</string>
+    <string name="wifi_tether_connected_devices_empty">No devices connected</string>
+    <string name="wifi_tether_connected_device_unknown_name">Unknown device</string>
+    <string name="wifi_tether_connected_device_summary" translatable="false">%1$s \u2022 %2$s</string>
+
 </resources>
