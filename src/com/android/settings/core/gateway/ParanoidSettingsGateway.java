@@ -18,7 +18,6 @@
 package com.android.settings.core.gateway;
 
 import co.aospa.settings.display.DcDimmingSettings;
-import co.aospa.settings.display.RefreshRateSettings;
 import co.aospa.settings.gestures.PowerButtonTorchSettings;
 import co.aospa.settings.sound.AdaptivePlaybackSoundSettings;
 import co.aospa.settings.gestures.VolumeButtonMusicControlGestureSettings;
@@ -31,7 +30,6 @@ public class ParanoidSettingsGateway {
      */
     public static final String[] ENTRY_FRAGMENTS = {
         DcDimmingSettings.class.getName(),
-        RefreshRateSettings.class.getName(),
         PowerButtonTorchSettings.class.getName(),
         AdaptivePlaybackSoundSettings.class.getName(),
         VolumeButtonMusicControlGestureSettings.class.getName(),
